@@ -1,6 +1,7 @@
-<h1 style="color:#83C5BE" align="center">I'm Guilherme RAMEH <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">I'm Guilherme RAMEH, Welcome to my GitHub <img src="https://media0.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif?cid=ecf05e47351ikbq09eu8kpbi7a8qmfwxa9twurfnybgiy3kj&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="85"></h1>
+
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=83C5BE&center=true&random=false&width=435&lines=Computer+Engineering+Student;Always+Learning;Problem+Solving;Loves+a+Challenge" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=dd2d4a&center=true&random=false&width=435&lines=Computer+Engineering+Student;Always+Learning;Problem+Solving;Loves+a+Challenge" alt="Typing SVG" /></a>
 </p>
 
 ## :man_shrugging: About me:
@@ -36,7 +37,9 @@
 
 <div>
 <a href="https://github.com/GuilhermeRameh/AWS_Terraform/readme"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GuilhermeRameh&repo=AWS_Terraform&theme=react&bg_color=293241&title_color=dd2d4a&hide_border=true&icon_color=F8D866&show_icons=false" alt="AWS_Terraform"></a>
-
+<a href="https://github.com/GuilhermeRameh/LogCompCompilador"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GuilhermeRameh&repo=LogCompCompilador&theme=react&bg_color=293241&title_color=dd2d4a&hide_border=true&icon_color=F8D866&show_icons=false" alt="LogCompCompilador"></a>
+<a href="https://github.com/GuilhermeRameh/ProjetoMaratonaDeFilmes"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GuilhermeRameh&repo=ProjetoMaratonaDeFilmes&theme=react&bg_color=293241&title_color=dd2d4a&hide_border=true&icon_color=F8D866&show_icons=false" alt="ProjetoMaratonaDeFilmes"></a>
+<a href="https://github.com/GuilhermeRameh/Projeto1_TecWeb"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=GuilhermeRameh&repo=Projeto1_TecWeb&theme=react&bg_color=293241&title_color=dd2d4a&hide_border=true&icon_color=F8D866&show_icons=false" alt="Projeto1_TecWeb"></a>
 </div>
 
 ##
